@@ -1,0 +1,6 @@
+.env
+/venv
+.idea/
+__pycache__/
+black_list.csv
+today_cars.csv
